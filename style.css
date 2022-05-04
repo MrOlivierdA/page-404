@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&family=Water+Brush&display=swap');
+
+h3 {
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+    letter-spacing: 2px;
+    font-size: 3rem;
+    color: rgb(44, 0, 0);
+    text-shadow: 5px 3px 0px red;
+}
+
+body {
+  height: 100%;
+  background-image: url(nuages.jpg);
+}
+main {
+  text-align: center;
+  margin: 50px 600px;
+}
+
+}
+ul {
+  margin: 50px 100px;
+  display: flex;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+}
